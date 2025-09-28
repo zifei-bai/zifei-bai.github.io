@@ -63,4 +63,4 @@ My research interest lies in the scientific understanding of foundation models a
 
 # Misc
 
-I was originally from Beijing, China. I love travelling during the vacations. I have been playing the accordion🪗 for over 15 years. 
+I am originally from Beijing, China. I love travelling during the vacations. I have been playing the accordion🪗 for over 15 years. 
