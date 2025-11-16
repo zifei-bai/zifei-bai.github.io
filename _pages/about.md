@@ -65,4 +65,4 @@ My research interest lies in the scientific understanding of foundation models a
 
 I am originally from Beijing, China. I love travelling during the vacations. I have been playing the accordion🪗 for over 15 years. 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qRlN8nTq61C61jmh1ZTKZ-FRoDox6ec&ehbc=2E312F&noprof=1" width="980" height="400"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qRlN8nTq61C61jmh1ZTKZ-FRoDox6ec&ehbc=2E312F&noprof=1" width="680" height="400"></iframe>
