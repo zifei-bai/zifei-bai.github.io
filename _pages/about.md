@@ -53,7 +53,7 @@ Hi👋! I am a senior undergraduate student from the University of Michigan, Ann
 
 My research interest lies in the scientific understanding of foundation models and their applications. I am very grateful to be advised by [Prof. Wei Hu](https://weihu.me/). Currently, I am working on foundational understanding of the Transformer's length generalization ability. I am also fortunate to collaborate with [Zhiwei Xu](https://zhiweixx.github.io/). Previously, I was a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), gratefully supervised by [Prof. Yixin Wang](https://yixinwang.github.io/). 
 
-I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising Schedule](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html). The Winter 2026 open advising time is coming soon. Winter 2026 starts on January 7th, 2026. Feel free to say Hi during my open advising time! 😉
+I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising Schedule](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html). My open advising hours are on Tuesdays from 2-4 pm and Thursdays from 1-4 pm. Feel free to say Hi during my open advising time! 😉
  <br><br>
 
 # Previous Project
