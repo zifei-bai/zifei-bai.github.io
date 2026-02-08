@@ -18,31 +18,6 @@ poster:
 
 
 <style>
-  .pub-item {
-      margin-bottom: 25px;
-      margin-top: 25px;
-      font-family: "Roboto", sans-serif; /* Or your site's default font */
-  }
-
-  .pub-title {
-      color: #2c3e50; /* The dark blue-grey color from your image */
-      font-size: 1.1rem;
-      font-weight: 700;
-      margin-bottom: 8px;
-      line-height: 1.3;
-  }
-
-  .pub-authors {
-      color: #333;
-      font-size: 0.9rem;
-      margin-bottom: 4px;
-  }
-
-  .pub-status {
-      color: #7f8c8d; /* The grey color for 'Submitted' */
-      font-style: italic;
-      font-size: 0.9rem;
-  }
 
 
 
@@ -80,14 +55,14 @@ poster:
 
 Hi👋! I am a senior undergraduate student from the University of Michigan, Ann Arbor, majoring in Computer Science and Data Science. 
 
-My research interest lies in the scientific understanding of foundation models and their applications. I am very grateful to be advised by [Prof. Wei Hu](https://weihu.me/). Currently, I am working on foundational understanding of the Transformer's length generalization ability. I am also fortunate to collaborate with [Zhiwei Xu](https://zhiweixx.github.io/). Previously, I was a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), gratefully supervised by [Prof. Yixin Wang](https://yixinwang.github.io/). 
+My research interest lies in the scientific understanding of foundation models and their applications. Currently, I am working on foundational understanding of the Transformer's length generalization ability. I am fortunate to collaborate with [Zhiwei Xu](https://zhiweixx.github.io/). I was very grateful to be supervised by [Prof. Wei Hu](https://weihu.me/). Previously, I was a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), gratefully supervised by [Prof. Yixin Wang](https://yixinwang.github.io/). 
 
 I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising Schedule](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html). My open advising hours are on Tuesdays from 2-4 pm and Thursdays from 1-4 pm. Feel free to say Hi during my open advising time! 😉
  <br><br>
 
 
 # Projects
-<hr style="height: 1px; background-color: #e0e0e0; border: none; margin: 30px 0;">
+<!-- <hr style="height: 1px; background-color: #e0e0e0; border: none; margin: 30px 0;">
 <div class="pub-item">
     <div class="pub-title">Sliding Critical Band in RoPE-based Length Extrapolation</div>
     <div class="pub-authors">
@@ -95,7 +70,16 @@ I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising
     </div>
     <div class="pub-status">Submitted.</div>
 </div>
-<hr style="height: 1px; background-color: #e0e0e0; border: none; margin: 30px 0;">
+<hr style="height: 1px; background-color: #e0e0e0; border: none; margin: 30px 0;"> -->
+---
+
+### Sliding Critical Band in RoPE-based Length Extrapolation
+
+Zifei Bai & Zhiwei Xu
+
+*Submitted.*
+
+---
 
 <div class="poster-top">
   {% include feature_row id="poster" type="left" %}
