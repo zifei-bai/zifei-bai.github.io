@@ -10,7 +10,7 @@ poster:
   - image_path: poster_screenshot.png
     alt: "Poster thumbnail"
     title: '<span style="font-size:0.95rem;">Investigating How Small Transformers Learn Arithmetic: Self-Improvement and Beyond</span>'
-    excerpt: This project was conducted during URPS2025, presented in both URPS2025 Poster Session and [CSE’s First Undergraduate Research Symposium](https://cse.engin.umich.edu/stories/cses-first-undergraduate-research-symposium-showcases-outstanding-work)
+    excerpt: This project was conducted during URPS 2025, presented in both URPS 2025 Poster Session and [CSE’s First Undergraduate Research Symposium](https://cse.engin.umich.edu/stories/cses-first-undergraduate-research-symposium-showcases-outstanding-work)
     url: /files/URPS_Poster_Undergrad_symposium.pdf   # 图片与标题都会链接到这个 PDF
     btn_label: "View Poster"
     btn_class: "btn--small"
@@ -61,7 +61,7 @@ I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising
  <br><br>
 
 
-# Projects
+# Projects and Publications
 <!-- <hr style="height: 1px; background-color: #e0e0e0; border: none; margin: 30px 0;">
 <div class="pub-item">
     <div class="pub-title">Sliding Critical Band in RoPE-based Length Extrapolation</div>
@@ -75,9 +75,9 @@ I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising
 
 ### [Sliding Critical Band in RoPE-based Length Extrapolation](https://openreview.net/forum?id=y2IeQSTxmc)
 
-Zifei Bai & Zhiwei Xu
+**Zifei Bai** & Zhiwei Xu
 
-*2nd DeLTa Workshop @ ICLR 2026*
+*DeLTa Workshop @ ICLR 2026*
 
 ---
 
