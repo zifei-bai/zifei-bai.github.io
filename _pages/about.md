@@ -73,11 +73,11 @@ I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising
 <hr style="height: 1px; background-color: #e0e0e0; border: none; margin: 30px 0;"> -->
 ---
 
-### Sliding Critical Band in RoPE-based Length Extrapolation
+### [Sliding Critical Band in RoPE-based Length Extrapolation](https://openreview.net/forum?id=y2IeQSTxmc)
 
 Zifei Bai & Zhiwei Xu
 
-*Submitted.*
+*2nd DeLTa Workshop @ ICLR 2026*
 
 ---
 
