@@ -79,8 +79,6 @@ I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising
 
 *DeLTa Workshop @ ICLR 2026*
 
-[Code](https://github.com/zifei-bai/Sliding-Critical-Band-in-RoPE-based-Length-Extrapolation)
-
 ---
 
 <div class="poster-top">
