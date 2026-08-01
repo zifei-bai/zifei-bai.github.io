@@ -566,7 +566,7 @@ excerpt: "Why RoPE-based LLMs break past their training length — and what actu
     if (!canvas || !sliderA || !sliderB) return;
     var ctx = canvas.getContext("2d");
     var W = canvas.width, H = canvas.height, cx = W/2, cy = H/2, R = Math.min(W,H)/2 - 26;
-    var thetaRel = thetaOf(16); // ~0.046 rad/step: a full sweep is visible across the 0-40 slider range
+    var thetaRel = thetaOf(16); /* ~0.046 rad/step: a full sweep is visible across the 0-40 slider range */
 
     function drawArrow(angle, color, label){
       var x2 = cx + Math.cos(angle) * R, y2 = cy - Math.sin(angle) * R;
@@ -728,7 +728,7 @@ excerpt: "Why RoPE-based LLMs break past their training length — and what actu
 
   /* ---- LLaMA-7B / C4 band widget ---- */
   var LLAMA_RATIOS = [1.125, 1.25, 1.75, 2.0];
-  var LLAMA_BAND = { 1.125:[30,58], 1.25:[33,60], 1.75:[34,62], 2:[35,63] }; // 1.75 visually interpolated, see caption
+  var LLAMA_BAND = { 1.125:[30,58], 1.25:[33,60], 1.75:[34,62], 2:[35,63] }; /* 1.75 visually interpolated, see caption */
   var llamaState = { ratio: 1.125 };
   function renderLlama(){
     var band = LLAMA_BAND[llamaState.ratio];
@@ -809,7 +809,7 @@ excerpt: "Why RoPE-based LLMs break past their training length — and what actu
     if (!window.Plotly) return;
     var order = ["Vanilla","PI","YaRN","SCB"];
     var colors = { Vanilla: "#7a8288", PI: "#f89406", YaRN: "#2f7f93", SCB: "#62c462" };
-    var data = TABLE4[1.75]; // most illustrative gap; user can read full table below
+    var data = TABLE4[1.75]; /* most illustrative gap; user can read full table below */
     var trace = {
       x: order, y: order.map(function(m){ return data[m]; }),
       type: "bar", marker: {color: order.map(function(m){ return colors[m]; })},
