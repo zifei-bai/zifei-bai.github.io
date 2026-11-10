@@ -53,13 +53,15 @@ poster:
   .poster-top .archive__item-excerpt { margin-top: 0rem !important; }
 </style>
 
-Hi👋! I am a master's student in Computer Science at the University of Michigan, Ann Arbor.
+Hi👋! I am a master's student in Computer Science at the University of Michigan, Ann Arbor, where I previously earned my B.S. in Computer Science. I am currently seeking software engineering and AI/ML opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zifei-bai-profile/).
 
-My research interests lie in the scientific understanding of foundation models and their applications. Currently, I am working on World Models with [Prof. Qing Qu](https://qingqu.engin.umich.edu/) at [DeepThink Lab](https://deepthink-umich.github.io/). I have also worked on understanding Transformers' length generalization ability in collaboration with [Zhiwei Xu](https://zhiweixx.github.io/), and I was grateful to be supervised by [Prof. Wei Hu](https://weihu.me/). Previously, I was a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), gratefully supervised by [Prof. Yixin Wang](https://yixinwang.github.io/).
+As an intern at MiningGoat, I built an internal natural-language-to-SQL platform using Python, Node.js, and the Claude API, enabling 20 non-technical employees to retrieve company data.
+
+My research interests lie in the scientific understanding of foundation models and their applications. Currently, I am working on World Models with [Prof. Qing Qu](https://qingqu.engin.umich.edu/) at [DeepThink Lab](https://deepthink-umich.github.io/). Previously, I studied Transformers' length generalization with [Zhiwei Xu](https://zhiweixx.github.io/). My earlier research experience also included work under the supervision of [Prof. Wei Hu](https://weihu.me/). I was also a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), where I was supervised by [Prof. Yixin Wang](https://yixinwang.github.io/).
 
 I am a Teaching Assistant (TA) for EECS 453 (Principles of Machine Learning).
 
-I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising Schedule](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html). My open advising hours are on Tuesdays from 2-4 pm and Thursdays from 1-4 pm. Feel free to say Hi during my open advising time! 😉
+Previously, I served as a Peer Advisor in UMich's Department of Statistics. [Current website](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html) · [Archived website]({{ '/images/Peer_Advisor_Web.jpg' | relative_url }}) (a screenshot of the Winter 2026 page featuring my profile).
  <br><br>
 
 
