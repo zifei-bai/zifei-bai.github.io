@@ -53,7 +53,7 @@ poster:
   .poster-top .archive__item-excerpt { margin-top: 0rem !important; }
 </style>
 
-Hi👋! I am a master's student in Computer Science at the University of Michigan, Ann Arbor, where I previously earned my B.S. in Computer Science. I am currently seeking software engineering and AI/ML opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zifei-bai-profile/).
+Hi👋! I am a master's student in Computer Science at the University of Michigan, Ann Arbor, where I previously earned my B.S. in Computer Science. I am currently seeking Summer 2027 internship opportunities in software engineering and AI/ML. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zifei-bai-profile/).
 
 As an intern at MiningGoat, I built an internal natural-language-to-SQL platform using Python, Node.js, and the Claude API, enabling 20 non-technical employees to retrieve company data.
 
