@@ -53,9 +53,11 @@ poster:
   .poster-top .archive__item-excerpt { margin-top: 0rem !important; }
 </style>
 
-Hi👋! I am a senior undergraduate student from the University of Michigan, Ann Arbor, majoring in Computer Science and Data Science. 
+Hi👋! I am a master's student in Computer Science at the University of Michigan, Ann Arbor.
 
-My research interest lies in the scientific understanding of foundation models and their applications. Currently, I am working on foundational understanding of the Transformer's length generalization ability. I am fortunate to collaborate with [Zhiwei Xu](https://zhiweixx.github.io/). I was very grateful to be supervised by [Prof. Wei Hu](https://weihu.me/). Previously, I was a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), gratefully supervised by [Prof. Yixin Wang](https://yixinwang.github.io/). 
+My research interests lie in the scientific understanding of foundation models and their applications. Currently, I am working on World Models with [Prof. Qing Qu](https://qingqu.engin.umich.edu/) at [DeepThink Lab](https://deepthink-umich.github.io/). I have also worked on understanding Transformers' length generalization ability in collaboration with [Zhiwei Xu](https://zhiweixx.github.io/), and I was grateful to be supervised by [Prof. Wei Hu](https://weihu.me/). Previously, I was a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), gratefully supervised by [Prof. Yixin Wang](https://yixinwang.github.io/).
+
+I am a Teaching Assistant (TA) for EECS 453 (Principles of Machine Learning).
 
 I am also a Peer Advisor in the Department of Statistics. Here is [Peer Advising Schedule](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html). My open advising hours are on Tuesdays from 2-4 pm and Thursdays from 1-4 pm. Feel free to say Hi during my open advising time! 😉
  <br><br>
