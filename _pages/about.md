@@ -59,7 +59,7 @@ As an intern at MiningGoat, I built an internal natural-language-to-SQL platform
 
 My research interests lie in the scientific understanding of foundation models and their applications. Currently, I am working on World Models with [Prof. Qing Qu](https://qingqu.engin.umich.edu/) at [DeepThink Lab](https://deepthink-umich.github.io/). Previously, I studied Transformers' length generalization with [Zhiwei Xu](https://zhiweixx.github.io/). My earlier research experience also included work under the supervision of [Prof. Wei Hu](https://weihu.me/). I was also a member of [URPS](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-research-opportunities-.html), where I was supervised by [Prof. Yixin Wang](https://yixinwang.github.io/).
 
-I am a Teaching Assistant (TA) for EECS 453 (Principles of Machine Learning).
+I am a Teaching Assistant (TA) for EECS 453 (Principles of Machine Learning) in Fall 2026.
 
 Previously, I served as a Peer Advisor in UMich's Department of Statistics. [Current website](https://lsa.umich.edu/stats/undergraduate-students/advising/undergrad-peer-advising.html) · [Archived website]({{ '/images/Peer_Advisor_Web.jpg' | relative_url }}) (a screenshot of the Winter 2026 page featuring my profile).
  <br><br>
